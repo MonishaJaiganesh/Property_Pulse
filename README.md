@@ -413,12 +413,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Shadcn/ui** - For beautiful UI components
 - **Tailwind CSS** - For utility-first styling
 
-## 📞 Contact
-
-**Project Maintainer**: Arijit
-- **GitHub**: [@arijit3111w](https://github.com/arijit3111w)
-- **Repository**: [value-home-vision](https://github.com/arijit3111w/value-home-vision)
-
 ## 🔮 Future Roadmap
 
 - [ ] Real-time market data integration
