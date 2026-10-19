@@ -2,7 +2,6 @@
 
 > Professional real estate valuation platform powered by advanced machine learning and AI technology
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3.12-green.svg)](https://www.python.org/)
@@ -18,13 +17,10 @@
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
 - [ML Model Details](#ml-model-details)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Overview
 
-**Value Home Vision** is a cutting-edge real estate platform that leverages artificial intelligence to provide accurate property valuations, market insights, and investment recommendations. Built with modern web technologies and powered by advanced machine learning algorithms, it delivers institutional-grade analysis for real estate professionals and investors.
+**Property Pulse** is a cutting-edge real estate platform that leverages artificial intelligence to provide accurate property valuations, market insights, and investment recommendations. Built with modern web technologies and powered by advanced machine learning algorithms, it delivers institutional-grade analysis for real estate professionals and investors.
 
 ### 🎯 Key Highlights
 
@@ -381,38 +377,6 @@ python main.py       # Start FastAPI server
 pytest              # Run tests (if configured)
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Make your changes** with proper documentation
-4. **Add tests** for new functionality
-5. **Commit changes**: `git commit -m 'Add amazing feature'`
-6. **Push to branch**: `git push origin feature/amazing-feature`
-7. **Open a Pull Request**
-
-### Development Guidelines
-- Follow TypeScript best practices
-- Use ESLint and Prettier for code formatting
-- Write comprehensive tests
-- Update documentation for new features
-- Follow semantic commit messages
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **XGBoost Team** - For the excellent gradient boosting framework
-- **Google AI** - For Gemini AI integration
-- **React Team** - For the powerful frontend framework
-- **FastAPI** - For the modern Python web framework
-- **Shadcn/ui** - For beautiful UI components
-- **Tailwind CSS** - For utility-first styling
-
 ## 🔮 Future Roadmap
 
 - [ ] Real-time market data integration
@@ -424,9 +388,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Advanced recommendation engine
 - [ ] Social features and community
 
----
 
-**Built with ❤️ using React, TypeScript, Python, and AI**
+**Built using React, TypeScript, Python, and AI**
 
 *Transform your real estate decisions with the power of artificial intelligence.*
 
