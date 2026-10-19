@@ -1,4 +1,4 @@
-# 🏠 Value Home Vision - AI-Powered Real Estate Platform
+# 🏠 Property Pulse - AI-Powered Real Estate Platform
 
 > Professional real estate valuation platform powered by advanced machine learning and AI technology
 
